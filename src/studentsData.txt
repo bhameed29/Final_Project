@@ -1,0 +1,9 @@
+John 8 0 Sick
+Peter 2 1 Sick
+Daniel 2 1 Sick
+Mia 6 2 Sick
+Micheal 3 0 Sick
+Thomas 4 5 Sick
+Aurthor 1 0 null
+Polly 0 1 fuck off
+Bella 0 1 i kill loki
